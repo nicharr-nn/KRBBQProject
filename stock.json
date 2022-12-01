@@ -1,0 +1,74 @@
+[
+    {
+        "No.": "1",
+        "Menu": "Pork belly set",
+        "Stock": 43,
+        "Price": 350
+    },
+    {
+        "No.": "2",
+        "Menu": "Pork collar set",
+        "Stock": 45,
+        "Price": 350
+    },
+    {
+        "No.": "3",
+        "Menu": "Spicy chicken set",
+        "Stock": 30,
+        "Price": 300
+    },
+    {
+        "No.": "4",
+        "Menu": "Tokpokki",
+        "Stock": 16,
+        "Price": 120
+    },
+    {
+        "No.": "5",
+        "Menu": "Jajangmyeon",
+        "Stock": 32,
+        "Price": 120
+    },
+    {
+        "No.": "6",
+        "Menu": "Bimbimbab",
+        "Stock": 29,
+        "Price": 150
+    },
+    {
+        "No.": "7",
+        "Menu": "Potato salad",
+        "Stock": 40,
+        "Price": 25
+    },
+    {
+        "No.": "8",
+        "Menu": "Kimchi",
+        "Stock": 43,
+        "Price": 25
+    },
+    {
+        "No.": "9",
+        "Menu": "Lettuce",
+        "Stock": 35,
+        "Price": 25
+    },
+    {
+        "No.": "10",
+        "Menu": "Steam rice",
+        "Stock": 20,
+        "Price": 25
+    },
+    {
+        "No.": "11",
+        "Menu": "Coke",
+        "Stock": 21,
+        "Price": 25
+    },
+    {
+        "No.": "12",
+        "Menu": "Water bottle",
+        "Stock": 3,
+        "Price": 25
+    }
+]
