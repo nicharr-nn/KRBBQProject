@@ -24,3 +24,11 @@ Program for you to order menu in the restuarant. Through this program, you can o
 4. App (Class for runner(main)) `app.py`
 - Have 'update' method for deduct the amount of menu in stock (read from stock.json)
 - Main
+
+## **Required libraries and tools**
+- Python Version 3.10
+
+## **Source files**
+- `data.json`
+- `stock.json`
+- `order_list.json`
