@@ -29,6 +29,6 @@ Program for you to order menu in the restuarant. Through this program, you can o
 - Python Version 3.10
 
 ## **Source files**
-- `data.json`
-- `stock.json`
-- `order_list.json`
+- `data.json` : contains username and password
+- `stock.json` : contains menu no., name of the menu, and amount of stocks
+- `order_list.json` : contains username, table that user sit, and latest ordered(menu no., table that user sit, and amount)
