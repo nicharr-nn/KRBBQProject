@@ -1,4 +1,5 @@
 # Korean Barbecue Ordering
+git link: https://github.com/nicharr-nn/KRBBQProject.git
 
 Program for you to order menu in the restuarant. Through this program, you can order food by letting you fill in the name and table number, you can also add or remove the menu items. After confirming your order, a summary of the list and the balance will appear.
 
