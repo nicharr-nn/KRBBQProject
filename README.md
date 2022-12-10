@@ -2,6 +2,9 @@
 
 Program for you to order menu in the restuarant. Through this program, you can order food by letting you fill in the name and table number, you can also add or remove the menu items. After confirming your order, a summary of the list and the balance will appear.
 
+## **Required libraries and tools**
+- Python Version 3.10
+
 ## **4 Classes**
 1. User `user.py`
 - Ask the user if the user wants to login or not. If the user wants to, ask the user's username and password(read from data.json). If not, user need to input 'guest'.
@@ -24,9 +27,6 @@ Program for you to order menu in the restuarant. Through this program, you can o
 4. App (Class for runner(main)) `app.py`
 - Have 'update' method for deduct the amount of menu in stock (read from stock.json)
 - Main
-
-## **Required libraries and tools**
-- Python Version 3.10
 
 ## **Source files**
 - `data.json` : contains username and password
