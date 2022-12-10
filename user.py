@@ -88,13 +88,6 @@ class User:
                 else:
                     print('Wrong input, please try again')
 
-    def check_order(self):
-        with open('order_list.json', 'r') as jsonFile:
-            data = json.load(jsonFile)
-            for item in data:
-                if item['Name'] == self.__name:
-                    print(f"You already order {item['Menu']} {item['Quantity']}")
-
     def summary(self):
         if self.cart:
             print('-' * 70)
